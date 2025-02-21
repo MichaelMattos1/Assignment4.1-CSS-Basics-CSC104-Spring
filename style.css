@@ -1,0 +1,29 @@
+body{
+background:-webkit-linear-gradient(right, rgb(167, 114, 80), rgb(216, 218, 114), rgb(90, 168, 221));
+color: whitesmoke;
+}
+
+h1{
+font-style: italic;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow:0 0 10px rgb(92, 14, 165);
+}
+
+h2{
+font-style:oblique;
+font-family:Georgia, 'Times New Roman', Times, serif;
+text-shadow:0 0 15px brown;
+}
+
+h3{
+font-style: normal;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight:bold;
+}
+
+p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 400;
+text-shadow:0 0 15px black;
+
+}
